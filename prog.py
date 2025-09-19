@@ -1,4 +1,4 @@
 from random import randint
 a = input()
 b = input()
-print(f"You entered characters: {a} {b}. Random operation: {eval(a+['-', '+', '*', '**', '%'][randint(0, 4)]+b)}")
+print(f"You entered characters: {a} {b}. substract operation: {int(a)-int(b)}")
