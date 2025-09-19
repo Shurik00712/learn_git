@@ -1,0 +1,4 @@
+*.tmp
+*.temp
+*.pyc
+*.log
